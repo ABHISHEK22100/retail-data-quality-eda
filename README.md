@@ -132,8 +132,7 @@ retail-data-quality-eda/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-```
+git clone https://github.com/ABHISHEK22100/retail-data-quality-eda.git
 
 ### Step 2: Navigate to the Project Directory
 
